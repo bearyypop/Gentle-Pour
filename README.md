@@ -1,4 +1,4 @@
-# The Gentle Pour — *An Interactive Café Website*
+# The Gentle Pour — *A Digital Coffee Shop Experience*
 
 ## Project Overview
 
