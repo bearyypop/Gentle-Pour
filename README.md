@@ -1,7 +1,4 @@
-
-# The Gentle Pour
-
-*A cozy, interactive café website inspired by my experience as a barista.*
+# The Gentle Pour — *An Interactive Café Website*
 
 ## Project Overview
 
